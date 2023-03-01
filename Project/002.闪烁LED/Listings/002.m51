@@ -1,20 +1,19 @@
-BL51 BANKED LINKER/LOCATER V6.22.4.0                                                    03/01/2023  19:19:30  PAGE 1
+BL51 BANKED LINKER/LOCATER V6.22.4.0                                                    03/01/2023  19:29:01  PAGE 1
 
 
 BL51 BANKED LINKER/LOCATER V6.22.4.0, INVOKED BY:
-D:\KEIL_V5\C51\BIN\BL51.EXE .\Objects\STARTUP.obj, .\Objects\main.obj TO .\Objects\002.…¡À∏LED PRINT (.\Listings\002.m51
->> ) RAMSIZE (256)
+D:\KEIL_V5\C51\BIN\BL51.EXE STARTUP.obj, main.obj TO 002.…¡À∏LED PRINT (.\Listings\002.m51) RAMSIZE (256)
 
 
 MEMORY MODEL: SMALL
 
 
 INPUT MODULES INCLUDED:
-  .\Objects\STARTUP.obj (?C_STARTUP)
-  .\Objects\main.obj (MAIN)
+  STARTUP.obj (?C_STARTUP)
+  main.obj (MAIN)
 
 
-LINK MAP OF MODULE:  .\Objects\002.…¡À∏LED (?C_STARTUP)
+LINK MAP OF MODULE:  002.…¡À∏LED (?C_STARTUP)
 
 
             TYPE    BASE      LENGTH    RELOCATION   SEGMENT NAME
@@ -33,7 +32,7 @@ LINK MAP OF MODULE:  .\Objects\002.…¡À∏LED (?C_STARTUP)
 
 
 
-OVERLAY MAP OF MODULE:   .\Objects\002.…¡À∏LED (?C_STARTUP)
+OVERLAY MAP OF MODULE:   002.…¡À∏LED (?C_STARTUP)
 
 
 SEGMENT
@@ -47,7 +46,7 @@ SEGMENT
 
 
 
-SYMBOL TABLE OF MODULE:  .\Objects\002.…¡À∏LED (?C_STARTUP)
+SYMBOL TABLE OF MODULE:  002.…¡À∏LED (?C_STARTUP)
 
   VALUE           TYPE          NAME
   ----------------------------------
@@ -59,10 +58,10 @@ SYMBOL TABLE OF MODULE:  .\Objects\002.…¡À∏LED (?C_STARTUP)
   D:00E0H         SYMBOL        ACC
   D:00F0H         SYMBOL        B
   D:0083H         SYMBOL        DPH
-BL51 BANKED LINKER/LOCATER V6.22.4.0                                                  03/01/2023  19:19:30  PAGE 2
-
-
   D:0082H         SYMBOL        DPL
+BL51 BANKED LINKER/LOCATER V6.22.4.0                                                  03/01/2023  19:29:01  PAGE 2
+
+
   N:0000H         SYMBOL        IBPSTACK
   N:0100H         SYMBOL        IBPSTACKTOP
   N:0080H         SYMBOL        IDATALEN
@@ -119,10 +118,10 @@ SYMBOL TABLE OF MODULE:  .\Objects\002.…¡À∏LED (?C_STARTUP)
   C:0819H         LINE#         12
   C:0819H         LINE#         13
   C:081BH         LINE#         14
-BL51 BANKED LINKER/LOCATER V6.22.4.0                                                  03/01/2023  19:19:30  PAGE 3
-
-
   C:0822H         LINE#         15
+BL51 BANKED LINKER/LOCATER V6.22.4.0                                                  03/01/2023  19:29:01  PAGE 3
+
+
   C:0824H         LINE#         16
   C:0827H         LINE#         17
   -------         ENDPROC       MAIN
