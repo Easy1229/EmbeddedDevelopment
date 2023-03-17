@@ -11,7 +11,7 @@ void delay_ms(uint xms){
 
 void main(void)
 {
-	uchar  num,dat1,dat2;
+	uchar num,dat1,dat2;
 	delay_ms(100);
 	P0=0;
 	while(1)

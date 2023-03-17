@@ -1,0 +1,4 @@
+"STARTUP.obj",
+"main.obj" 
+TO "004.×ÜÏß²Ù×÷" 
+PRINT(".\Listings\004.m51") RAMSIZE(256) 
