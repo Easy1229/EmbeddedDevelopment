@@ -1,4 +1,0 @@
-"STARTUP.obj",
-"main.obj" 
-TO "001.µ„¡¡LED" 
-PRINT(".\Listings\001.m51") RAMSIZE(256) 
